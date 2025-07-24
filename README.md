@@ -12,4 +12,7 @@ For network analysis, I employed the AAL atlas (Automated Anatomical Labeling br
 
 for more detailed discussion of energy landscape related to fMRI neural signals please view this article:
 https://pubmed.ncbi.nlm.nih.gov/29410486/
+
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010811
+
+<img width="850" height="836" alt="image" src="https://github.com/user-attachments/assets/9b6f6294-45bd-4e2b-8f99-ebeef4cc0daa" />
